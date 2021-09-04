@@ -1,4 +1,4 @@
-### Hi there <img src="https://githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Haseeb Udeen!
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Haseeb Udeen!
 
 <!--
 **RacketyWater7/RacketyWater7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
