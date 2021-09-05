@@ -1,5 +1,9 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Haseeb Udeen!
 
+A Software Engineer specializing in JavaScript, DevOps, and AWS. Professional experience with the technologies listed in the **toolbox** below.
+I create tech content, mostly about Web Development and JavaScript, but I also talk about other topics than coding, such as career related. I would advise you to subscribe to stay up-to-date.
+I managed to create online presence with my [Blog](https://www.medium.com/@haseebudeen). I working on to increase my presence and reach to help more and more people in the near future.
+
 <!--
 **RacketyWater7/RacketyWater7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
