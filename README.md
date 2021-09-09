@@ -2,6 +2,8 @@
 
 ---
 
+[![Twitter Follow](https://img.shields.io/twitter/follow/haseebudeen?label=People%20following%20me%20on%20Twitter&style=social)](https://twitter.com/intent/follow?screen_name=haseebudeen)
+
 A Software Engineer specializing in JavaScript, DevOps, and AWS. Professional experience with the technologies listed in the **toolbox** below. <br/><br/>
 
 I create tech content, mostly about Web Development and JavaScript, but I also talk about other topics than coding, such as career related. I would advise you to subscribe to stay up-to-date. <br/><br/>
