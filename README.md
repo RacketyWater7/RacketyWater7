@@ -27,6 +27,10 @@ I managed to create online presence with my [Blog](https://www.medium.com/@hasee
 ➡️ [...blog articles](https://www.medium.com/@haseebudeen)
 
 ---
+
+[!{Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RacketyWater7&hide=java&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Haseeb's GitHub stats](https://github-readme-stats.vercel.app/api?username=RacketyWater7&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **RacketyWater7/RacketyWater7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
