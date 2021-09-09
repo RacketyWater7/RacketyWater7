@@ -28,7 +28,7 @@ I managed to create online presence with my [Blog](https://www.medium.com/@hasee
 
 ---
 
-[!{Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RacketyWater7&hide=java&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RacketyWater7&hide=java&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Haseeb's GitHub stats](https://github-readme-stats.vercel.app/api?username=RacketyWater7&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <!--
