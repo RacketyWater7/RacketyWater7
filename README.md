@@ -20,7 +20,8 @@ I managed to create online presence with my [Blog](https://www.medium.com/@hasee
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START-->
-
+- [Configure Access and Refresh JWTs in React App](https://space.haseebudeen.com/configure-access-and-refresh-jwts-in-react-app)
+- [Having problems writing your next programming article?](https://space.haseebudeen.com/having-problems-writing-your-next-programming-article)
 <!-- BLOG-POST-LIST:END-->
 
 ➡️ [...blog articles](https://www.medium.com/@haseebudeen)
